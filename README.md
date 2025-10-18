@@ -10,7 +10,7 @@
 ---
 
 ### 🌱 About Me
-- 💡 Currently learning **Web Development**, and **Modern Frontend Frameworks**
+- 💡 **Web Development**, and **Modern Frontend Frameworks**
 - 🎮 Exploring **C#** and **Unity Game Development**
 - 📫 Reach me at **mochamaddaffa05@gmail.com**
 
