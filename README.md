@@ -15,7 +15,7 @@
 
 <p align="center">🌱 I’m currently learning <b>Unity & C#</b> for game development.</p>
 <p align="center">💻 Passionate about <b>Web Development</b> with modern frameworks.</p>
-<p align="center">📫 Reach me at <a href="mailto:mochamaddaffa05@gmail.com"><b>mochamaddaffa05@gmail.com</b></a></p>
+<p align="center">📫 Reach me at <a href="https://mail.google.com/mail/?view=cm&to=mochamaddaffa05@gmail.com" target="_blank"><b>mochamaddaffa05@gmail.com</b></a></p>
 
 ---
 
