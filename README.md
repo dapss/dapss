@@ -44,8 +44,8 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dapss&show_icons=true&theme=tokyonight&hide_border=true" alt="dapss stats" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dapss&theme=tokyonight&hide_border=true" alt="dapss streak" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dapss&show_icons=true&theme=tokyonight&hide_border=true" alt="dapss stats" width="30%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dapss&theme=tokyonight&hide_border=true" alt="dapss streak" width="35%" />
 </p>
 
 <p align="center">
