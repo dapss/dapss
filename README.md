@@ -20,7 +20,7 @@
 ---
 
 <h3 align="center">🌐 Connect with Me</h3>
-<p align="center">
+<p align="center" margin="5px">
   <a href="https://www.linkedin.com/in/mochamaddaffa" target="blank">
     <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" width="40" />
   </a>
@@ -44,7 +44,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dapss&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="20%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dapss&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="35%" />
 </p>
 
 ---
