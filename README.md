@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mochamad Daffa</h1>
-<h3 align="center">🎓 Student at Multimedia Nusantara University</h3>
+<h3 align="center">💡 Exploring Code, Creativity, and Continuous Learning</h3>
 
 ---
 
