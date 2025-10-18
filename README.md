@@ -38,7 +38,7 @@
 
 <h3 align="center">⚙️ Frameworks & Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,laravel,unity,mysql,mongodb,vscode,git" />
+  <img src="https://skillicons.dev/icons?i=node,react,laravel,unity,mysql,mongodb,vscode,git" />
 </p>
 
 ---
