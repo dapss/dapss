@@ -16,19 +16,17 @@
 <p align="center">🌱 I’m currently learning <b>Unity & C#</b> for game development.</p>
 <p align="center">💻 Passionate about <b>Web Development</b> with modern frameworks.</p>
 <p align="center">📫 Reach me at <a href="https://mail.google.com/mail/?view=cm&to=mochamaddaffa05@gmail.com" target="_blank"><b>mochamaddaffa05@gmail.com</b></a></p>
+<p align="center">🌐 My Portfolio: <a href="https://dapss.github.io/portfolio" target="_blank"><b>your-portfolio-website.com</b></a></p>
 
 ---
 
 <h3 align="center">🌐 Connect with Me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/mochamaddaffa" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="40" width="40" />
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" width="40" />
   </a>
   <a href="https://instagram.com/_daaps" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="40" width="40" />
-  </a>
-  <a href="https://your-portfolio-website.com" target="blank">
-    <img align="center" src="https://api.iconify.design/mdi/web.svg?color=white" alt="portfolio" height="40" width="40" />
+    <img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" width="40" />
   </a>
 </p>
 
