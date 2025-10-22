@@ -41,9 +41,6 @@ I'm a developer with a passion for blending creativity with clean code to build 
   </a>
 </p>
 
-    </td>
-    <td valign="top" width="40%">
-
 ### 🔥 My GitHub Stats
 
 <p align="center">
@@ -52,7 +49,6 @@ I'm a developer with a passion for blending creativity with clean code to build 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dapss&layout=compact&theme=tokyonight&hide_border=true" alt="dapss" />
 </p>
 
-    </td>
   </tr>
 </table>
 
