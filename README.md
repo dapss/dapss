@@ -55,7 +55,7 @@
 </p>
 
 <p align="center">
-  <a href="https://huggingface.co/dapss" target="_blank">
+  <a href="https://huggingface.co/EMPRSSive" target="_blank">
     <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" />
   </a>
 </p>
@@ -76,5 +76,5 @@
 ---
 
 <p align="center">
-  <b>⭐️ From <a href="https://github.com/dapss">dapss</a></b>
+  <b><a href="https://github.com/dapss">dapss</a></b>
 </p>
